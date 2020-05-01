@@ -10,7 +10,7 @@ A simple and easy ilias downloader written with python. It helps you to download
 
 ## Install 
 
-You can download the built file or download the source code.
+You can download the [built file](https://github.com/cold-soda-jay/iliaD/releases) or download the source code.
 
 
 </br>
