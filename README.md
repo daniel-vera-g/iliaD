@@ -1,11 +1,11 @@
 # ILIAD
 
-A simple and easy ilias downloader written with python. It helps you to download files on ilias to your computer.
+A simple and easy ilias downloader written with python. It helps you to download files from ilias to your computer.
 
 <div align=""><img src="pic/titlr.png" alt="Image" style="zoom:70%;" /></div>
 </br>
 
-> **<font color="red">Important:</font>** The project is now only support Ilias platform of ***Karlsruhe Institut für Technologie***.
+> **<font color="red">Important:</font>** The project now only supports Ilias platform of ***Karlsruhe Institut für Technologie***.
 
 
 ## Install 
@@ -26,7 +26,6 @@ chardet==3.0.4
 future==0.18.2
 idna==2.9
 pefile==2019.4.18
-PyInstaller==3.6
 pywin32-ctypes==0.2.0
 requests==2.23.0
 soupsieve==2.0
